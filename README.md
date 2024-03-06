@@ -38,7 +38,7 @@ PONG
 ```
 ### Step 2:
 ```shell
-https://github.com/zm1060/redis_client
+git clone https://github.com/zm1060/redis_client
 ```
 
 
